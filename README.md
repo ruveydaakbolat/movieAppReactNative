@@ -1,4 +1,8 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+![movie2-ezgif com-video-to-gif-converter](https://github.com/ruveydaakbolat/movieAppReactNative/assets/54941922/d99d7880-ca21-497a-84db-49b65502e863)This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+### `Screen`
+![movie2-ezgif com-video-to-gif-converter](https://github.com/ruveydaakbolat/movieAppReactNative/assets/54941922/184c7d96-2e2a-46d1-884c-a2a8068ba66d)
+
 
 # Getting Started
 
