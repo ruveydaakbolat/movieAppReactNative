@@ -15,7 +15,6 @@ const TrendingMovies = () => {
   }, [dispatch]);
 
   const trendingMovies = useSelector(getTrendingState());
-  console.log(JSON.stringify(trendingMovies, null, 2));
   return (
     <View>
       <Carousel
